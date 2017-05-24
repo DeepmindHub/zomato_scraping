@@ -2,7 +2,7 @@
 
 ###############################################
 # Program: PRogram to scrape Zomato data
-# Author: Yadunath Gupta
+# Author: Ankur Pal
 # Date: 17-12-2015
 # Version 1.0
 ###############################################
